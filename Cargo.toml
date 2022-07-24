@@ -2,7 +2,7 @@
 name = "souq"
 version = "0.0.1"
 authors = ["Nikola Hristov <nikola@playform.cloud>"]
-edition = "2018"
+edition = "2021"
 description = "🎪 High-performant e-commerce API."
 documentation = "https://docs.rs/souq/"
 readme = "README.md"
