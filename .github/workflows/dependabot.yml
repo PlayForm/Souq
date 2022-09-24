@@ -1,4 +1,4 @@
-name: Dependabot auto-merge & approve
+name: Dependabot
 on: pull_request
 
 permissions:
