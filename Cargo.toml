@@ -1,7 +1,7 @@
 [package]
 name = "souq"
 version = "0.0.1"
-authors = ["Nikola Hristov <nikola@nikolahristov.tech>"]
+authors = ["nikolaxhristov"]
 edition = "2021"
 description = "🎪 High-performant e-commerce API."
 documentation = "https://docs.rs/souq"
