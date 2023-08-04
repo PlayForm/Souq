@@ -5,4 +5,16 @@ version = "0.0.1"
 [build]
 target-dir = "Target"
 
+[lib]
+name = "inn"
+path = "Source/Library/main.rs"
+
+[[bin]]
+name = "inn"
+path = "Source/Binary/inn.rs"
+
+[[bin]]
+name = "innkeeper"
+path = "Source/Binary/innkeeper.rs"
+
 [dependencies]
