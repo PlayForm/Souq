@@ -2,4 +2,7 @@
 name = "souq"
 version = "0.0.1"
 
+[build]
+target-dir = "Target"
+
 [dependencies]
