@@ -6,15 +6,11 @@ version = "0.0.1"
 target-dir = "Target"
 
 [lib]
-name = "inn"
+name = "souq"
 path = "Source/Library/main.rs"
 
 [[bin]]
-name = "inn"
-path = "Source/Binary/inn.rs"
-
-[[bin]]
-name = "innkeeper"
-path = "Source/Binary/innkeeper.rs"
+name = "souq"
+path = "Source/Binary/souq.rs"
 
 [dependencies]
