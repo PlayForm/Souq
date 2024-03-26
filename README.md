@@ -2,4 +2,4 @@
 
 High-performant E-Commerce API.
 
-[souq]: HTTPS://Crates.IO/crates/souq
+[souq]: https://Crates.IO/crates/souq
