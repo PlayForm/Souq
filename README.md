@@ -1,5 +1,5 @@
-# [souq] 🎪
+# 🎪 [Souq]
 
 High-performant E-Commerce API.
 
-[souq]: https://crates.io/crates/souq
+[Souq]: https://crates.io/crates/souq
