@@ -1,4 +1,4 @@
-# 🎪 [Souq]
+# 🎪 [Souq.]
 
 High-performant E-Commerce API.
 
