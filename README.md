@@ -1,3 +1,3 @@
 # [Souq] 🎪
 
-[Souq]: HTTPS://crates.io/crates/souq
+[Souq]: https://crates.io/crates/souq
